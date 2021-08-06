@@ -10,5 +10,6 @@ public class TestJenkins {
         //generate random values from 0-24
         num = rand.nextInt(upperbound);
         System.out.println("The random number is: "+num);
+        System.out.println("-");
     }
 }
